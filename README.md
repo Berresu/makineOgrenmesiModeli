@@ -27,9 +27,6 @@ Modelin eğitim ve test süreçlerinde Kaggle üzerinde yer alan, Atharva Inamda
 * Thriller (Gerilim)
 * Travel (Gezi)
 
-> *Buraya veri setinin dağılım grafiğini ekleyebilirsin:*
-> ![Veri Seti Dağılımı](BURAYA_GRAFİK_LİNKİ_GELECEK)
-
 ---
 
 ## Eğitim Stratejisi ve Performans
@@ -42,12 +39,25 @@ Modelin geliştirilme sürecinde iki farklı yaklaşım test edilmiştir:
 ### Sonuçlar
 Bu strateji sayesinde tüm algoritmalar **0.85'in üzerinde F-Skoruna** ulaşarak muazzam bir başarı göstermiştir. Özellikle **SVM** modelimiz gerçek hayat testlerinde (Antik Roma, Agatha Christie ve mitolojik eserler üzerinde) en tutarlı tahminleri üreten şampiyon model olmuştur.
 
-> *Buraya modellerin başarı grafiklerini, Karmaşıklık Matrisini (Confusion Matrix) veya ROC eğrilerini ekleyebilirsin:*
-> ![Karmaşıklık Matrisi](BURAYA_MATRİS_GRAFİK_LİNKİ_GELECEK)
-> ![ROC Eğrisi](BURAYA_ROC_GRAFİK_LİNKİ_GELECEK)
+
+<img width="781" height="657" alt="image" src="https://github.com/user-attachments/assets/98a89f68-18e8-4a28-8ef7-8e953a91c5e1" />
+
+<img width="748" height="535" alt="image" src="https://github.com/user-attachments/assets/8d4c5485-7f7a-49a7-addc-25c027de76b2" />
+
+<img width="742" height="652" alt="image" src="https://github.com/user-attachments/assets/76c51460-3e29-4780-abd4-e5ab8a3b4ae0" />
+
+<img width="731" height="532" alt="image" src="https://github.com/user-attachments/assets/da813b47-7730-40b1-8834-560933919f0f" />
+
+<img width="753" height="655" alt="image" src="https://github.com/user-attachments/assets/720b97ae-13b8-46ff-aca9-e75de0c1f945" />
+
+<img width="707" height="528" alt="image" src="https://github.com/user-attachments/assets/1457601a-359f-4a29-a89e-6a6d26b4f957" />
+
+<img width="750" height="655" alt="image" src="https://github.com/user-attachments/assets/5b741640-a498-403b-865b-974252af0efa" />
+
+<img width="712" height="533" alt="image" src="https://github.com/user-attachments/assets/e7e833dc-ded6-418b-ab35-dafe41860897" />
 
 ---
 
 ## Kullanım (Hugging Face)
 Bu model aynı zamanda canlı bir web arayüzüne dönüştürülmüştür. Kendi kitap özetlerinizle modeli test etmek için aşağıdaki platformu ziyaret edebilirsiniz:
-🔗 [Hugging Face Space Uygulama Linki](BURAYA_HUGGING_FACE_SPACE_LİNKİNİ_YAPIŞTIR)
+🔗 (https://huggingface.co/spaces/berre00/book-genre-predictor)
